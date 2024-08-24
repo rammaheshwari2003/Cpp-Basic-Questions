@@ -1,4 +1,4 @@
-// precedence Question's
+// precedence Question's 
 #include<iostream>
 using namespace std;
 

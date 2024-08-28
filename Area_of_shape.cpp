@@ -1,4 +1,4 @@
-// Write a program to calculate area of different Shapes based on users choice S, C or R (like s for square, c for circle, and r for rectangle)
+// Write a program to calculate area of different Shapes based on users choice S, C or R (like s for square, c for circle, and r for rectangle).
 #include<iostream>
 using namespace std;
 int main(){

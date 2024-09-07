@@ -17,6 +17,12 @@ int main(){
 			string str3="apple is very good for health";
 			str3[4]=toupper(str[4]);
 			cout<<str3;				
+
+// lower
+				
+			string str="apple";
+			str[3]=tolower(str[3]);
+			cout<<str;
 return 0;
 }
 

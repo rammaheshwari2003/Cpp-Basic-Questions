@@ -13,6 +13,7 @@ using namespace std;
 					n3=0;
 				}
 			}
+// task:- wap to demontrate call by reference by creating two funtcion. function great_zero(), parameter = 3 int, return = void.
 
 int main(){
 			int num1,num2,num3;

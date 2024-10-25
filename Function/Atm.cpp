@@ -4,7 +4,7 @@ int axis(int cardno, int pwd){
 	if(cardno==101 && pwd==1234){
 	return 10000;
 }
-else {
+else { 
 	return 0;
 } 
 }

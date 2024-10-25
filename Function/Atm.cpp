@@ -6,7 +6,7 @@ int axis(int cardno, int pwd){
 }
 else {
 	return 0;
-}
+} 
 }
 
 

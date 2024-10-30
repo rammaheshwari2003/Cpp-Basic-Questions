@@ -1,6 +1,6 @@
 //The number are equal or not using ternary.
 #include<iostream>
-using namespace std;
+using namespace std; 
 int main(){
     int num1,num2;
     cout<<"Enter Two number : ";

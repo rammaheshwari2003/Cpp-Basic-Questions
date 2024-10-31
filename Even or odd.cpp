@@ -6,7 +6,7 @@ int main(){
  cout<<"Enter a number : ";
  cin>>Num;
  if(Num % 2 == 0){
-    cout<<"Even";
+    cout<<"Even"; 
  }
  else{
     cout<<"odd";

@@ -13,5 +13,5 @@ int main(){
     else{
     cout<<"It is not a square ";
     }
-}
+} 
  

@@ -14,3 +14,4 @@ int main(){
     cout<<"It is not a square ";
     }
 }
+ 

@@ -29,7 +29,7 @@ case 'r':
     break;
 
 default:
-cout<<"select s,c,r only";
+cout<<"select s,c,r only"; 
     break;
 }
 

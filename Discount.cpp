@@ -10,7 +10,7 @@ int main(){
     cin>>cost;
     
     int total=cost*quantity;
-    int final_cost;
+    int final_cost; 
     cout<<"The total of 70 pen is : "<<total<<endl;
     
     if(total>1000){

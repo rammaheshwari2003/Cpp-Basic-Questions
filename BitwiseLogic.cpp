@@ -5,3 +5,4 @@ int main(){
      int r=a*40/60-b>>2||d*e+c-11;
      cout<<r<<endl;
 }
+ 

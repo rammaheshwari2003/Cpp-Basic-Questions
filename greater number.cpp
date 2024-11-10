@@ -8,7 +8,7 @@ int main(){
     if(num1>num2){
         cout<<"The greater number is "<<num1<<endl;
     }
-    else{
+    else{ 
             cout<<"The greater number is "<<num2<<endl;
     }
 }

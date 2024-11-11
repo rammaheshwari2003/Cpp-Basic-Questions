@@ -11,7 +11,7 @@ int main(){
     int unit,price=0;
     cout<<"enter the unit :";
     cin>>unit;
-
+ 
     if(unit<100){
         price=unit*0.50;
         cout<<"your bill is :"<<price;

@@ -81,7 +81,7 @@ if(amount/50!=0){
  if(amount/5!=0){
  num=amount/5;
  note=5*num;
- amount-=note;
+ amount-=note; 
  cout<<"5 *"<<num<<"= "<<note<<endl;
   totalnote=totalnote+num;
  }

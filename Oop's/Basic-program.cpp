@@ -6,7 +6,7 @@ class Cybrom{
 //	static	void show(){
 			void show(){
 			a++;
-			cout<<a<<"\t";
+			cout<<a<<"\t"; 
 		}
 };
 int Cybrom::a=20;

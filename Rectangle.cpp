@@ -4,7 +4,7 @@ using namespace std;
 int main(){
     int length,breadth;
     cout<<"Enter length of rectangle : ";
-    cin>>length;
+    cin>>length; 
     cout<<"Enter breadth of rectangle : ";
     cin>>breadth;
     if(length==breadth){
